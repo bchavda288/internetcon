@@ -1,0 +1,29 @@
+{
+  "name": "internetcon",
+  "version": "1.0.0",
+  "description": "Check the consistency of your internet. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bchavda288/internetcon.git"
+  },
+  "keywords": [
+    "Internet",
+    "Connection",
+    "IP",
+    "address"
+  ],
+  "author": "Bharatsinh Chavda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bchavda288/internetcon/issues"
+  },
+  "homepage": "https://github.com/bchavda288/internetcon#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.0.1"
+  }
+}
